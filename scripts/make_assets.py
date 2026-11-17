@@ -94,12 +94,12 @@ def numbers(theme):
     W, H = 1280, 190
     items = [
         ("3", "+", "years shipping", "production software"),
-        ("2", "", "apps live on the", "App Store & Google Play"),
+        ("3", "", "apps in production:", "BrainCode, GymGPT, AlphaPilot"),
         ("945", "", "commits on a", "HIPAA-compliant EHR"),
         ("2,400", "+", "contributions in", "the last 12 months"),
     ]
     parts = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="3+ years, 2 apps live, 945 commits on a HIPAA-compliant EHR, 2,400+ contributions in the last 12 months">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="3+ years, 3 apps in production (BrainCode, GymGPT, AlphaPilot), 945 commits on a HIPAA-compliant EHR, 2,400+ contributions in the last 12 months">',
         f'<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="24" fill="{c["panel"]}" stroke="{c["line"]}"/>',
     ]
     col = W / 4

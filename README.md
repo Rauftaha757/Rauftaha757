@@ -18,7 +18,7 @@ Most of that work lives in private client repositories, so the case studies, arc
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/numbers-dark.svg">
-  <img alt="3+ years shipping production software. 2 apps live on the App Store and Google Play. 945 commits on a HIPAA-compliant EHR. 2,400+ contributions in the last 12 months." src="./assets/numbers-light.svg" width="100%">
+  <img alt="3+ years shipping production software. 3 apps in production: BrainCode, GymGPT and AlphaPilot. 945 commits on a HIPAA-compliant EHR. 2,400+ contributions in the last 12 months." src="./assets/numbers-light.svg" width="100%">
 </picture>
 
 
@@ -91,7 +91,6 @@ Most of that work lives in private client repositories, so the case studies, arc
 
 <p align="center">
   <a href="https://taharauf.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://taharauf.vercel.app/Taha_Rauf_Software_Engineer_CV.pdf"><b>CV</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/taha-rauf-63223b344/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:rauftaha757@gmail.com"><b>rauftaha757@gmail.com</b></a>
   <br>
