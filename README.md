@@ -4,8 +4,6 @@
 </picture>
 
 <p align="center">
-  <a href="https://taharauf.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-taharauf.vercel.app-c4ee18?style=flat-square&labelColor=0a0a0b"></a>&nbsp;
-  <a href="https://taharauf.vercel.app/Taha_Rauf_Software_Engineer_CV.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download%20PDF-f2f1ec?style=flat-square&labelColor=0a0a0b"></a>&nbsp;
   <a href="https://www.linkedin.com/in/taha-rauf-63223b344/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Taha%20Rauf-f2f1ec?style=flat-square&labelColor=0a0a0b"></a>&nbsp;
   <a href="mailto:rauftaha757@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rauftaha757%40gmail.com-f2f1ec?style=flat-square&labelColor=0a0a0b"></a>
 </p>
