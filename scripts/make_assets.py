@@ -1,7 +1,7 @@
 """Builds the SVGs used by the profile README (header, numbers, project cards).
 
 Run from the repository root:  python3 scripts/make_assets.py
-Palette and type follow the portfolio at https://taharauf.vercel.app.
+Palette and type follow the portfolio at https://taharauf-portfolio.vercel.app.
 """
 
 import random

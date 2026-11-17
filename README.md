@@ -12,7 +12,7 @@
 
 I build software products end to end: **Flutter** apps for iOS, Android and the web, **PostgreSQL** and **AWS** backends, **AI** features, and the release to the App Store and Google Play. I'm the leading engineer on a HIPAA-compliant hospice EHR, and the main engineer on products for clients in the Netherlands, Bahrain, Angola, the USA and France.
 
-Most of that work lives in private client repositories, so the case studies, architecture diagrams and screenshots are on **[taharauf.vercel.app](https://taharauf.vercel.app)**.
+Most of that work lives in private client repositories, so the case studies, architecture diagrams and screenshots are on **[taharauf-portfolio.vercel.app](https://taharauf-portfolio.vercel.app)**.
 
 <br>
 
@@ -90,7 +90,7 @@ Most of that work lives in private client repositories, so the case studies, arc
 <br>
 
 <p align="center">
-  <a href="https://taharauf.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://taharauf-portfolio.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/taha-rauf-63223b344/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:rauftaha757@gmail.com"><b>rauftaha757@gmail.com</b></a>
   <br>
