@@ -21,22 +21,6 @@ Most of that work lives in private client repositories, so the case studies, arc
   <img alt="3+ years shipping production software. 2 apps live on the App Store and Google Play. 945 commits on a HIPAA-compliant EHR. 2,400+ contributions in the last 12 months." src="./assets/numbers-light.svg" width="100%">
 </picture>
 
-<br><br>
-
-## Selected work
-
-<p align="center">
-  <a href="https://taharauf.vercel.app/#ehr"><img alt="Hospice EHR: HIPAA-compliant EHR on AWS Amplify Gen 2" src="./assets/work/ehr.svg" width="49%"></a>
-  <a href="https://taharauf.vercel.app/#work"><img alt="BrainCode: mental wellness for people and their employers, live in production" src="./assets/work/braincode.svg" width="49%"></a>
-  <a href="https://taharauf.vercel.app/#work"><img alt="GymGPT: an AI personal trainer you can talk to, live in production" src="./assets/work/gymgpt.svg" width="49%"></a>
-  <a href="https://taharauf.vercel.app/#work"><img alt="Boleia: carpooling matched on the driver's real route" src="./assets/work/boleia.svg" width="49%"></a>
-  <a href="https://taharauf.vercel.app/#work"><img alt="Dim Studio: a showroom photo studio powered by AI" src="./assets/work/dim-studio.svg" width="49%"></a>
-  <a href="https://taharauf.vercel.app/#work"><img alt="Earned Athletix: kids earn screen time by working out" src="./assets/work/earned-athletix.svg" width="49%"></a>
-</p>
-
-<p align="center"><sub>Also: <b>Baytna</b>, a bilingual home-food marketplace on Tap Payments · <b>Cost Captains</b>, AI estimates for contractors on Stripe Connect</sub></p>
-
-<br>
 
 ## Stack
 
