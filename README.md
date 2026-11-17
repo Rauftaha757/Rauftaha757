@@ -1,157 +1,106 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img alt="Taha Rauf, Software Engineer. Production apps, from the database to the App Store." src="./assets/header-light.svg" width="100%">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a3a5c,100:c9a96e&height=200&section=header&text=Taha%20Rauf&fontSize=72&fontColor=f5f3ee&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Flutter%20%C2%B7%20Backend%20%C2%B7%20AI&descSize=16&descAlignY=58&descColor=c9a96e&animation=fadeIn" alt="Taha Rauf, Software Engineer"/>
+<p align="center">
+  <a href="https://taharauf.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-taharauf.vercel.app-c4ee18?style=flat-square&labelColor=0a0a0b"></a>&nbsp;
+  <a href="https://taharauf.vercel.app/Taha_Rauf_Software_Engineer_CV.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download%20PDF-f2f1ec?style=flat-square&labelColor=0a0a0b"></a>&nbsp;
+  <a href="mailto:rauftaha757@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rauftaha757%40gmail.com-f2f1ec?style=flat-square&labelColor=0a0a0b"></a>
+</p>
 
-<br/>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=28&pause=1000&color=C9A96E&center=true&vCenter=true&width=680&lines=Production+apps+from+the+database+to+the+App+Store;Flutter+%C2%B7+Supabase+%C2%B7+PostgreSQL+%C2%B7+AWS+Amplify+Gen+2;Leading+engineer+on+a+HIPAA-compliant+EHR;2+apps+live+on+the+App+Store+and+Google+Play)](https://taharauf.vercel.app)
+I build software products end to end: **Flutter** apps for iOS, Android and the web, **PostgreSQL** and **AWS** backends, **AI** features, and the release to the App Store and Google Play. I'm the leading engineer on a HIPAA-compliant hospice EHR, and the main engineer on products for clients in the Netherlands, Bahrain, Angola, the USA and France.
 
-<br/>
+Most of that work lives in private client repositories, so the case studies, architecture diagrams and screenshots are on **[taharauf.vercel.app](https://taharauf.vercel.app)**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-taharauf.vercel.app-c9a96e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f)](https://taharauf.vercel.app)
-&nbsp;
-[![CV](https://img.shields.io/badge/CV-Download-1a3a5c?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0a0a0f)](https://taharauf.vercel.app/Taha_Rauf_Software_Engineer_CV.pdf)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-rauftaha757%40gmail.com-c9a96e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:rauftaha757@gmail.com)
+<br>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/numbers-dark.svg">
+  <img alt="3+ years shipping production software. 2 apps live on the App Store and Google Play. 945 commits on a HIPAA-compliant EHR. 2,400+ contributions in the last 12 months." src="./assets/numbers-light.svg" width="100%">
+</picture>
 
----
+<br><br>
 
-<div align="center">
+## Selected work
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   📱  Flutter apps for iOS, Android and the web               ║
-║   🗄️   PostgreSQL / Supabase and AWS Amplify Gen 2 backends    ║
-║   🤖  AI features: streaming chat, vision, image pipelines    ║
-║   🏥  HIPAA-compliant healthcare software                     ║
-║   📍  Islamabad, Pakistan · open to full-time roles           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <a href="https://taharauf.vercel.app/#ehr"><img alt="Hospice EHR: HIPAA-compliant EHR on AWS Amplify Gen 2" src="./assets/work/ehr.svg" width="49%"></a>
+  <a href="https://taharauf.vercel.app/#work"><img alt="BrainCode: mental wellness for people and their employers, live in production" src="./assets/work/braincode.svg" width="49%"></a>
+  <a href="https://taharauf.vercel.app/#work"><img alt="GymGPT: an AI personal trainer you can talk to, live in production" src="./assets/work/gymgpt.svg" width="49%"></a>
+  <a href="https://taharauf.vercel.app/#work"><img alt="Boleia: carpooling matched on the driver's real route" src="./assets/work/boleia.svg" width="49%"></a>
+  <a href="https://taharauf.vercel.app/#work"><img alt="Dim Studio: a showroom photo studio powered by AI" src="./assets/work/dim-studio.svg" width="49%"></a>
+  <a href="https://taharauf.vercel.app/#work"><img alt="Earned Athletix: kids earn screen time by working out" src="./assets/work/earned-athletix.svg" width="49%"></a>
+</p>
 
-</div>
+<p align="center"><sub>Also: <b>Baytna</b>, a bilingual home-food marketplace on Tap Payments · <b>Cost Captains</b>, AI estimates for contractors on Stripe Connect</sub></p>
 
----
+<br>
 
-## &nbsp;◈ &nbsp;About Me
+## Stack
 
-I'm a **Software Engineer** with **3+ years** shipping production apps end to end: Flutter clients for iOS, Android and the web, PostgreSQL and AWS backends, AI features, and releases to the App Store and Google Play.
+<table>
+  <tr>
+    <td width="150"><sub><b>MOBILE</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio&theme=dark">
+        <img alt="Flutter, Dart, Swift, Kotlin, Android Studio" src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio&theme=light" height="44">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>BACKEND &amp; CLOUD</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,supabase,postgres,graphql,nodejs,ts,firebase,mongodb&theme=dark">
+        <img alt="AWS, Supabase, PostgreSQL, GraphQL, Node.js, TypeScript, Firebase, MongoDB" src="https://skillicons.dev/icons?i=aws,supabase,postgres,graphql,nodejs,ts,firebase,mongodb&theme=light" height="44">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>DELIVERY</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,githubactions,vercel,figma,vscode&theme=dark">
+        <img alt="Git, GitHub Actions, Vercel, Figma, VS Code" src="https://skillicons.dev/icons?i=git,githubactions,vercel,figma,vscode&theme=light" height="44">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>ALSO</b></sub></td>
+    <td><sub>BLoC / Cubit · GoRouter · AWS Amplify Gen 2 · AppSync · Lambda · Cognito · DynamoDB · PostGIS · Realtime · OpenAI GPT-4o · Gemini · SSE streaming · Stripe Connect · Tap Payments · RevenueCat · Codemagic · Shorebird</sub></td>
+  </tr>
+</table>
 
-- 🏥 **Leading engineer on a HIPAA-compliant hospice EHR** on AWS Amplify Gen 2: about 945 of 4,000+ commits on a 10-person team
-- 📱 **Two apps live** on the App Store and Google Play: BrainCode and GymGPT
-- 🌍 Main engineer on products for clients in the Netherlands, Bahrain, Angola, the USA and France
-- ⚡ Cut API latency by roughly **30%** on high-volume patient record screens
+<br>
 
-> *Most of my work lives in private client repositories, so the activity graph below says more than the public repos.*
+## Activity
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rauftaha757&hide_border=true&disable_animations=true&background=0d1117&ring=c4ee18&fire=c4ee18&currStreakNum=f2f1ec&currStreakLabel=c4ee18&sideNums=f2f1ec&sideLabels=8b8b90&dates=8b8b90&stroke=30363d">
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Rauftaha757&hide_border=true&disable_animations=true&background=ffffff&ring=5f7f00&fire=5f7f00&currStreakNum=0a0a0b&currStreakLabel=5f7f00&sideNums=0a0a0b&sideLabels=6b6b70&dates=6b6b70&stroke=e4e4de" width="80%">
+  </picture>
+</p>
 
-## &nbsp;◈ &nbsp;Selected Work
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rauftaha757&bg_color=0d1117&color=8b8b90&title_color=f2f1ec&line=c4ee18&point=f2f1ec&area=true&area_color=c4ee18&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days">
+    <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rauftaha757&bg_color=ffffff&color=6b6b70&title_color=0a0a0b&line=5f7f00&point=0a0a0b&area=true&area_color=c4ee18&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days" width="100%">
+  </picture>
+</p>
 
-| Product | What it is | Engineering highlights |
-|---|---|---|
-| **Hospice EHR** | HIPAA-compliant EHR for US hospice agencies | AWS Amplify Gen 2 · AppSync GraphQL · RBAC across 25+ roles · 1,700+-field forms with transactional saves |
-| **BrainCode** · [App Store](https://apps.apple.com/pk/app/braincode-by-milan/id6782066008) · [Google Play](https://play.google.com/store/apps/details?id=com.milans.brain.app) | Mental-wellness app sold to people and their employers | Payment webhooks · resumable offline downloads · background audio · Shorebird OTA |
-| **GymGPT** | AI personal trainer, live in the stores | GPT-4o replies streamed over SSE · deterministic plan engine with 138 tests · HealthKit |
-| **Boleia** | Carpooling for Angola | PostGIS route matching · booking engine that cannot double-book · live GPS tracking |
-| **Dim Studio** | AI photo studio for car dealerships | 100-photo batches on Dart isolates · sliding-window rate limiter · crash-safe resume |
-| **Earned Athletix** | Kids earn screen time by working out | Native Swift (DeviceActivity) and Kotlin (foreground service) behind MethodChannels |
-| **Baytna** | Bilingual home-food marketplace | Arabic RTL · Tap Payments · seller wallet and payouts |
-| **Cost Captains** | AI estimates for contractors | LLM intake · PDF and Excel on device · Stripe Connect |
+<p align="center"><sub>Includes private client work.</sub></p>
 
-Case studies, architecture diagrams and screenshots: **[taharauf.vercel.app](https://taharauf.vercel.app)**
+<br>
 
----
-
-## &nbsp;◈ &nbsp;Tech Stack
-
-<div align="center">
-
-### &nbsp;Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC%20%2F%20Cubit-0a0a0f?style=for-the-badge&logo=flutter&logoColor=c9a96e)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### &nbsp;Backend & Cloud
-![AWS Amplify Gen 2](https://img.shields.io/badge/AWS%20Amplify%20Gen%202-FF9900?style=for-the-badge&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### &nbsp;AI
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![SSE](https://img.shields.io/badge/SSE%20Streaming-0a0a0f?style=for-the-badge&logoColor=white)
-
-### &nbsp;Payments & Integrations
-![Stripe](https://img.shields.io/badge/Stripe%20Connect-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Tap Payments](https://img.shields.io/badge/Tap%20Payments-1a3a5c?style=for-the-badge&logoColor=white)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=for-the-badge&logo=revenuecat&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-### &nbsp;Delivery
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white)
-![Shorebird](https://img.shields.io/badge/Shorebird%20OTA-0a0a0f?style=for-the-badge&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,supabase,postgres,graphql,nodejs,ts,firebase,githubactions,git&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-## &nbsp;◈ &nbsp;GitHub Activity
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Rauftaha757&theme=dark&background=0d1117&ring=c9a96e&fire=e8d5a3&currStreakLabel=c9a96e&border=30363d&sideLabels=f5f3ee&dates=6b6860" alt="Contribution streak"/>
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rauftaha757&bg_color=0d1117&color=c9a96e&line=1a3a5c&point=c9a96e&area_color=1a3a5c&area=true&hide_border=false&border_color=30363d" alt="Contribution graph"/>
-
-</div>
-
----
-
-## &nbsp;◈ &nbsp;Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-taharauf.vercel.app-c9a96e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f)](https://taharauf.vercel.app)
-
-[![Email](https://img.shields.io/badge/Email-rauftaha757%40gmail.com-c9a96e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:rauftaha757@gmail.com)
-
-[![Resume](https://img.shields.io/badge/Résumé-Download%20CV-c9a96e?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0a0a0f)](https://taharauf.vercel.app/Taha_Rauf_Software_Engineer_CV.pdf)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a96e,50:1a3a5c,100:0a0a0f&height=120&section=footer&text=Code.%20Create.%20Repeat.&fontSize=24&fontColor=f5f3ee&fontAlignY=65&animation=fadeIn" alt="footer"/>
-
-</div>
+<p align="center">
+  <a href="https://taharauf.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://taharauf.vercel.app/Taha_Rauf_Software_Engineer_CV.pdf"><b>CV</b></a> &nbsp;·&nbsp;
+  <a href="mailto:rauftaha757@gmail.com"><b>rauftaha757@gmail.com</b></a>
+  <br>
+  <sub>Islamabad, Pakistan · open to full-time Flutter, mobile and full-stack roles</sub>
+</p>

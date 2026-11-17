@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Taha Rauf, Software Engineer">
+<defs>
+<radialGradient id="g" cx="78%" cy="45%" r="45%"><stop offset="0" stop-color="#c4ee18" stop-opacity="0.45"/><stop offset="1" stop-color="#c4ee18" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#0a0a0b" stroke-opacity="0.045"/></pattern>
+<clipPath id="r"><rect width="1280" height="400" rx="28"/></clipPath>
+<style>@keyframes p{0%,100%{opacity:.25}50%{opacity:1}} .a{animation:p 3.2s ease-in-out infinite} @media (prefers-reduced-motion: reduce){.a{animation:none}}</style>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1280" height="400" fill="#fafaf7"/>
+<rect width="1280" height="400" fill="url(#grid)"/>
+<rect width="1280" height="400" fill="url(#g)"/>
+<rect x="862" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="862" y="128" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="862" y="152" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="862" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="862" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="862" y="224" width="18" height="18" rx="4" fill="#8fb800" opacity="1" class="a" style="animation-delay:0.78s"/>
+<rect x="862" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="886" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="886" y="128" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="886" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="886" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="886" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="886" y="224" width="18" height="18" rx="4" fill="#8fb800" opacity="1" class="a" style="animation-delay:0.88s"/>
+<rect x="886" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="910" y="104" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="910" y="128" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="910" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="910" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="910" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="910" y="224" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="910" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="934" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="934" y="128" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="934" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="934" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="934" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="934" y="224" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="934" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="958" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="958" y="128" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="958" y="152" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="958" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="958" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="958" y="224" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="958" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="1"/>
+<rect x="982" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="982" y="128" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="982" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="982" y="176" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="982" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="982" y="224" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="982" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1006" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1006" y="128" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1006" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1006" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1006" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1006" y="224" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1006" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="1" class="a" style="animation-delay:0.68s"/>
+<rect x="1030" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1030" y="128" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1030" y="152" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1030" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1030" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="1"/>
+<rect x="1030" y="224" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1030" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1054" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1054" y="128" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1054" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="1" class="a" style="animation-delay:0.84s"/>
+<rect x="1054" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1054" y="200" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1054" y="224" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1054" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1078" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1078" y="128" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1078" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1078" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1078" y="200" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1078" y="224" width="18" height="18" rx="4" fill="#8fb800" opacity="1"/>
+<rect x="1078" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1102" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1102" y="128" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1102" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="1" class="a" style="animation-delay:1.23s"/>
+<rect x="1102" y="176" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1102" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1102" y="224" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1102" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1126" y="104" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1126" y="128" width="18" height="18" rx="4" fill="#8fb800" opacity="1" class="a" style="animation-delay:1.36s"/>
+<rect x="1126" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="1" class="a" style="animation-delay:0.67s"/>
+<rect x="1126" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1126" y="200" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1126" y="224" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1126" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1150" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1150" y="128" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1150" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1150" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1150" y="200" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1150" y="224" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1150" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1174" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<rect x="1174" y="128" width="18" height="18" rx="4" fill="#8fb800" opacity="1"/>
+<rect x="1174" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1174" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1174" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1174" y="224" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1174" y="248" width="18" height="18" rx="4" fill="#ecece6"/>
+<rect x="1198" y="104" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1198" y="128" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1198" y="152" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1198" y="176" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1198" y="200" width="18" height="18" rx="4" fill="#8fb800" opacity="0.75"/>
+<rect x="1198" y="224" width="18" height="18" rx="4" fill="#8fb800" opacity="0.5"/>
+<rect x="1198" y="248" width="18" height="18" rx="4" fill="#8fb800" opacity="0.28"/>
+<circle cx="70" cy="82" r="5" fill="#c4ee18"/>
+<text x="86" y="87" font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="500" letter-spacing="3" text-anchor="start" font-style="normal" fill="#6b6b70" opacity="1">SOFTWARE ENGINEER  ·  ISLAMABAD, PAKISTAN</text>
+<text x="58" y="210" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="124" font-weight="700" letter-spacing="-5" text-anchor="start" font-style="normal" fill="#0a0a0b" opacity="1">Taha Rauf</text>
+<text x="64" y="272" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="28" fill="#0a0a0b" opacity="0.85">Production apps, from the database to the <tspan font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-style="italic" font-size="32" fill="#5f7f00" opacity="1">App Store.</tspan></text>
+<rect x="64" y="316" width="90" height="34" rx="17" fill="none" stroke="#e4e4de"/><text x="79" y="338" font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="500" letter-spacing="0.5" text-anchor="start" font-style="normal" fill="#0a0a0b" opacity="0.85">Flutter</text>
+<rect x="164" y="316" width="150" height="34" rx="17" fill="none" stroke="#e4e4de"/><text x="179" y="338" font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="500" letter-spacing="0.5" text-anchor="start" font-style="normal" fill="#0a0a0b" opacity="0.85">Swift &amp; Kotlin</text>
+<rect x="324" y="316" width="99" height="34" rx="17" fill="none" stroke="#e4e4de"/><text x="339" y="338" font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="500" letter-spacing="0.5" text-anchor="start" font-style="normal" fill="#0a0a0b" opacity="0.85">Supabase</text>
+<rect x="433" y="316" width="116" height="34" rx="17" fill="none" stroke="#e4e4de"/><text x="448" y="338" font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="500" letter-spacing="0.5" text-anchor="start" font-style="normal" fill="#0a0a0b" opacity="0.85">PostgreSQL</text>
+<rect x="559" y="316" width="176" height="34" rx="17" fill="none" stroke="#e4e4de"/><text x="574" y="338" font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="500" letter-spacing="0.5" text-anchor="start" font-style="normal" fill="#0a0a0b" opacity="0.85">AWS Amplify Gen 2</text>
+<rect x="745" y="316" width="47" height="34" rx="17" fill="none" stroke="#e4e4de"/><text x="760" y="338" font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="500" letter-spacing="0.5" text-anchor="start" font-style="normal" fill="#0a0a0b" opacity="0.85">AI</text>
+<text x="1216" y="87" font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="2.5" text-anchor="end" font-style="normal" fill="#5f7f00" opacity="1">OPEN TO FULL-TIME ROLES</text>
+<rect x="0.5" y="0.5" width="1279" height="399" rx="28" fill="none" stroke="#e4e4de"/>
+</g></svg>
