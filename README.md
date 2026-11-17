@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://taharauf.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-taharauf.vercel.app-c4ee18?style=flat-square&labelColor=0a0a0b"></a>&nbsp;
   <a href="https://taharauf.vercel.app/Taha_Rauf_Software_Engineer_CV.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download%20PDF-f2f1ec?style=flat-square&labelColor=0a0a0b"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/taha-rauf-63223b344/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Taha%20Rauf-f2f1ec?style=flat-square&labelColor=0a0a0b"></a>&nbsp;
   <a href="mailto:rauftaha757@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rauftaha757%40gmail.com-f2f1ec?style=flat-square&labelColor=0a0a0b"></a>
 </p>
 
@@ -46,8 +47,8 @@ Most of that work lives in private client repositories, so the case studies, arc
     <td width="150"><sub><b>MOBILE</b></sub></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio&theme=dark">
-        <img alt="Flutter, Dart, Swift, Kotlin, Android Studio" src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio&theme=light" height="44">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Cswift%2Ckotlin%2Candroidstudio&theme=dark">
+        <img alt="Flutter, Dart, Swift, Kotlin, Android Studio" src="https://skillicons.dev/icons?i=flutter%2Cdart%2Cswift%2Ckotlin%2Candroidstudio&theme=light" height="44">
       </picture>
     </td>
   </tr>
@@ -55,8 +56,8 @@ Most of that work lives in private client repositories, so the case studies, arc
     <td><sub><b>BACKEND &amp; CLOUD</b></sub></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,supabase,postgres,graphql,nodejs,ts,firebase,mongodb&theme=dark">
-        <img alt="AWS, Supabase, PostgreSQL, GraphQL, Node.js, TypeScript, Firebase, MongoDB" src="https://skillicons.dev/icons?i=aws,supabase,postgres,graphql,nodejs,ts,firebase,mongodb&theme=light" height="44">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Csupabase%2Cpostgres%2Cgraphql%2Cnodejs%2Cts%2Cfirebase%2Cmongodb&theme=dark">
+        <img alt="AWS, Supabase, PostgreSQL, GraphQL, Node.js, TypeScript, Firebase, MongoDB" src="https://skillicons.dev/icons?i=aws%2Csupabase%2Cpostgres%2Cgraphql%2Cnodejs%2Cts%2Cfirebase%2Cmongodb&theme=light" height="44">
       </picture>
     </td>
   </tr>
@@ -64,8 +65,8 @@ Most of that work lives in private client repositories, so the case studies, arc
     <td><sub><b>DELIVERY</b></sub></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,githubactions,vercel,figma,vscode&theme=dark">
-        <img alt="Git, GitHub Actions, Vercel, Figma, VS Code" src="https://skillicons.dev/icons?i=git,githubactions,vercel,figma,vscode&theme=light" height="44">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithubactions%2Cvercel%2Cfigma%2Cvscode&theme=dark">
+        <img alt="Git, GitHub Actions, Vercel, Figma, VS Code" src="https://skillicons.dev/icons?i=git%2Cgithubactions%2Cvercel%2Cfigma%2Cvscode&theme=light" height="44">
       </picture>
     </td>
   </tr>
@@ -100,6 +101,7 @@ Most of that work lives in private client repositories, so the case studies, arc
 <p align="center">
   <a href="https://taharauf.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://taharauf.vercel.app/Taha_Rauf_Software_Engineer_CV.pdf"><b>CV</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/taha-rauf-63223b344/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:rauftaha757@gmail.com"><b>rauftaha757@gmail.com</b></a>
   <br>
   <sub>Islamabad, Pakistan · open to full-time Flutter, mobile and full-stack roles</sub>
