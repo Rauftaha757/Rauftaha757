@@ -53,6 +53,15 @@ Most of that work lives in private client repositories, so the case studies, arc
     </td>
   </tr>
   <tr>
+    <td><sub><b>iOS RELEASE</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/apple-tools-dark.svg">
+        <img alt="Xcode, TestFlight, App Store Connect" src="./assets/apple-tools-light.svg" height="44">
+      </picture>
+    </td>
+  </tr>
+  <tr>
     <td><sub><b>BACKEND &amp; CLOUD</b></sub></td>
     <td>
       <picture>
